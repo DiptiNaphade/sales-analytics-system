@@ -1,0 +1,65 @@
+============================================
+           SALES ANALYTICS REPORT
+      Generated: 2026-01-18 13:28:18
+      Records Processed: 21
+============================================
+
+OVERALL SUMMARY
+--------------------------------------------
+Total Revenue:         $1,321,605.00
+Total Transactions:    21
+Average Order Value:   $62,933.57
+Date Range:            2024-12-01 to 2024-12-27
+
+REGION-WISE PERFORMANCE
+--------------------------------------------
+Region     Sales           % of Total   Trans
+North      $1,321,605.00   100.0      % 21
+
+TOP 5 PRODUCTS
+--------------------------------------------
+Rank  Product Name       Qty   Revenue
+1     Wireless Mouse     19    $19,934.00
+2     Mouse              12    $9,450.00
+3     Laptop Premium     12    $933,316.00
+4     Headphones         10    $50,029.00
+5     External Hard Drive 9     $34,218.00
+
+TOP 5 CUSTOMERS
+--------------------------------------------
+Rank  Customer ID   Spent        Orders
+1     C004          $818,960.00  1
+2     C008          $129,476.00  2
+3     C003          $115,124.00  2
+4     C010          $78,867.00   1
+5     C028          $48,359.00   2
+
+DAILY SALES TREND
+--------------------------------------------
+Date         Revenue         Trans    Unq Cust
+2024-12-01   $118,656.00     1        1
+2024-12-02   $6,958.00       1        1
+2024-12-05   $257.00         1        1
+2024-12-08   $4,710.00       2        2
+2024-12-09   $22,285.00      3        3
+2024-12-10   $1,550.00       1        1
+2024-12-13   $32,134.00      1        1
+2024-12-14   $33,775.00      1        1
+2024-12-15   $818,960.00     1        1
+2024-12-17   $114,356.00     1        1
+... (see trend dictionary for full month data)
+
+PRODUCT PERFORMANCE ANALYSIS
+--------------------------------------------
+Best Selling Day: 2024-12-15 ($818,960.00)
+Low Performing Products count: 9
+Average Spend per region:
+ - North: $62,933.57
+
+API ENRICHMENT SUMMARY
+--------------------------------------------
+Total Products Enriched: 0
+Success Rate:            0.00%
+Unmatched Products:      External Hard Drive, Monitor LED, External Hard Drive 1TB, Keyboard Mechanical, Laptop...
+
+============================================
